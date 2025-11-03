@@ -16,8 +16,12 @@ A platform that transforms how the Brisbane Broncos (NRL) identify talent, optim
 - Plugs into existing systems like Catapult GPS and Champion Data, enhancing existing workflows.
 
 ## View it in Action
-[![2026 Injury Risk](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test1.jpg)](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test1.mp4)
+**2026 Injury Risk**
+https://github.com/user-attachments/assets/127f348c-c50e-43d3-afd4-7e348ec0c751
 
-[![Optimal 2026 Lineup](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test2.jpg)](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test2.mp4)
+**Optimal 2026 Lineup**
+https://github.com/user-attachments/assets/780bbd14-11c2-45db-8598-ba77ae9c1ca1
 
-[![2026 GPS Fatigue](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test3.jpg)](https://raw.githubusercontent.com/trashsock/broncos-player-analytics/main/test-vids/test3.mp4)
+**2026 GPS Fatigue**
+https://github.com/user-attachments/assets/bf841088-1b63-4942-9372-4080532d44a8
+
